@@ -1,0 +1,98 @@
+[
+  {
+    "id": "A",
+    "name": "Alex",
+    "age": 16,
+    "height_cm": 170,
+    "weight_kg": 72,
+    "goal": "Improve cardiovascular fitness and gradually reduce body fat without extreme dieting.",
+    "experience": "Beginner; has exercised inconsistently for 3 months.",
+    "schedule": "30–40 minutes after school on Monday, Wednesday, Friday; up to 60 minutes on Saturday.",
+    "equipment": [
+      "resistance bands",
+      "yoga mat",
+      "school track"
+    ],
+    "likes": [
+      "basketball",
+      "cycling",
+      "spicy food",
+      "rice",
+      "chicken"
+    ],
+    "dislikes": [
+      "long-distance running",
+      "plain yogurt"
+    ],
+    "dietary_constraints": [
+      "lactose intolerant",
+      "no shellfish"
+    ],
+    "daily_routine": "School 8:00–15:00; usually sleeps 23:30–07:00.",
+    "current_habits": "Often skips breakfast; buys sweet drinks 4 times per week.",
+    "safety_note": "The plan must be moderate, age-appropriate, and should not prescribe supplements or aggressive calorie restriction."
+  },
+  {
+    "id": "B",
+    "name": "Jordan",
+    "age": 17,
+    "height_cm": 182,
+    "weight_kg": 68,
+    "goal": "Gain strength and muscle while improving posture.",
+    "experience": "Beginner; knows basic push-ups and squats.",
+    "schedule": "45 minutes on Tuesday, Thursday, and Sunday.",
+    "equipment": [
+      "adjustable dumbbells",
+      "pull-up bar",
+      "chair"
+    ],
+    "likes": [
+      "swimming",
+      "eggs",
+      "noodles",
+      "fruit"
+    ],
+    "dislikes": [
+      "very spicy food",
+      "protein shakes"
+    ],
+    "dietary_constraints": [
+      "vegetarian but eats eggs and dairy",
+      "nut allergy"
+    ],
+    "daily_routine": "School 8:30–15:30; homework most evenings.",
+    "current_habits": "Sleeps about 7 hours; sometimes has only snacks for lunch.",
+    "safety_note": "The plan must prioritize technique, recovery, and balanced meals; no supplement recommendations."
+  },
+  {
+    "id": "C",
+    "name": "Taylor",
+    "age": 15,
+    "height_cm": 160,
+    "weight_kg": 55,
+    "goal": "Build a sustainable routine, improve mobility, and feel more energetic.",
+    "experience": "No formal training.",
+    "schedule": "20–30 minutes on four weekdays; weekends are unpredictable.",
+    "equipment": [
+      "none"
+    ],
+    "likes": [
+      "dance",
+      "walking with friends",
+      "sandwiches",
+      "tofu",
+      "berries"
+    ],
+    "dislikes": [
+      "competitive sports",
+      "oatmeal"
+    ],
+    "dietary_constraints": [
+      "gluten-free",
+      "does not eat beef"
+    ],
+    "daily_routine": "School 7:45–14:45; music practice three evenings per week.",
+    "current_habits": "Drinks little water and spends long periods sitting.",
+    "safety_note": "Avoid weight-loss framing; emphasize movement quality, hydration, sleep, and flexible habits."
+  }
+]

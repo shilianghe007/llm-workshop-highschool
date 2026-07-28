@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "full_name": "string",
+      "preferred_name": "string or null",
+      "grade": "integer or null",
+      "graduation_year": "integer or null",
+      "age": "integer or null",
+      "primary_email": "string",
+      "alternate_email": "string or null",
+      "student_phone": "string or null; normalize as XXX-XXX-XXXX",
+      "interests": [
+        "string"
+      ],
+      "availability": [
+        "normalized human-readable time window"
+      ],
+      "tshirt_size": "XS|S|M|L|XL|XXL|null",
+      "dietary_or_allergy_notes": [
+        "string"
+      ],
+      "coding_experience": "string",
+      "preferred_team": "string or null",
+      "second_choice_team": "string or null",
+      "emergency_contact": {
+        "name": "string",
+        "relationship": "string or null",
+        "phone": "XXX-XXX-XXXX"
+      },
+      "uncertainties": [
+        "string"
+      ],
+      "conflicts": [
+        "string"
+      ]
+    }
+  ]
+}
