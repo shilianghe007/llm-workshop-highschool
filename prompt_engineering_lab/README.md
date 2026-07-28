@@ -3,7 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shilianghe007/llm-workshop-highschool/blob/main/prompt_engineering_lab/prompt_engineering_lab.ipynb)
 
 ## Start here
-- Instructor: `INSTRUCTOR_GUIDE.md`
 - Students: `prompt_engineering_lab.ipynb` (open with the Colab badge above)
 - Supporting files: `assets/`
 
