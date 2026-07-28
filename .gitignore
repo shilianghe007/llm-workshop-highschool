@@ -1,1 +1,5 @@
 .DS_Store
+
+# Instructor-only answer keys — must stay off the public repo.
+prompt_engineering_lab/SOLUTIONS.md
+prompt_engineering_lab/prompt_engineering_lab_solution.ipynb
