@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A",
+    "style_name": "19th-century American parlor/folk song",
+    "reference_titles": [
+      "Oh! Susanna (Stephen Foster)",
+      "Camptown Races (Stephen Foster)"
+    ],
+    "reference_excerpts": [
+      "Oh! Susanna, oh don't you cry for me",
+      "The Camptown ladies sing this song, doo-dah! doo-dah!"
+    ],
+    "feature_notes": [
+      "Strong repeated refrain.",
+      "Simple, regular meter.",
+      "Concrete travel/place imagery.",
+      "Direct first-person storytelling.",
+      "Catchy nonsense syllables or repeated interjections.",
+      "Verse-chorus structure; easy end rhymes."
+    ],
+    "usage_note": "These excerpts are public domain. Abstract the traits; do not reuse any complete reference line."
+  },
+  {
+    "id": "B",
+    "style_name": "Traditional sea shanty",
+    "reference_titles": [
+      "Blow the Man Down (traditional)",
+      "Drunken Sailor (traditional)"
+    ],
+    "reference_excerpts": [
+      "Way, hey, blow the man down",
+      "What shall we do with a drunken sailor?"
+    ],
+    "feature_notes": [
+      "Call-and-response structure.",
+      "Short command-like lines.",
+      "Repeated work rhythm.",
+      "Nautical setting and collective 'we'.",
+      "Escalating verses with small variations.",
+      "Chorus designed for group participation."
+    ],
+    "usage_note": "These excerpts are public domain. Abstract the traits; do not reuse any complete reference line."
+  }
+]
